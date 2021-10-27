@@ -1,0 +1,10 @@
+/btc/MM /btc/MM
+/eth/MM /btc/MM
+/price/CC /btc/PB /btc/PB
+/price/CC /eth/PE /btc/PB
+/price/CC /price/CC /btc/PB
+/price/CC /volume/CC /btc/VB
+/volume/CC /btc/VB /btc/VB
+/volume/CC /eth/VE /btc/VB
+/volume/CC /price/CC /btc/PB
+/volume/CC /volume/CC /btc/VB
